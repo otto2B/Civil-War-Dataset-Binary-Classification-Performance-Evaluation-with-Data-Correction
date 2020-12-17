@@ -12,7 +12,9 @@ In this extension, we will explore methods to overcome the unbalance in the data
 ![](https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_ROC.png)
 
 **SVM classifier**
-![](https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_table.png | width=100)
+
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_table.png" width="500">
+
 ![](https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_ROC.png)
 
 **Data correction**
