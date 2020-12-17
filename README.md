@@ -8,16 +8,28 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 <img src="images/KNN_table.png" width="500">
 
+<p align="center">
+ Receiver Operating Characteristic Curves for KNN classifier
+</p>
+
 <img src="images/KNN_ROC.png">
 
 **SVM classifier**
 
 <img src="images/SVM_table.png" width="700">
 
+<p align="center">
+ Receiver Operating Characteristic Curves for SVM classifier
+</p>
+
 <img src="images/SVM_ROC.png">
 
 **Data correction**
   **Logistic regression functions**
+  
+  <p align="center">
+   Paper replication and Adaboost
+  </p>
   
   <img src="images/Paper_rep_adaboost.png">
   
