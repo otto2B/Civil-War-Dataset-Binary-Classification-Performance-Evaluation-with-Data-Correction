@@ -1,5 +1,6 @@
 ![](https://miro.medium.com/max/1200/1*N5wTuuEAq8GU4zlomwWLiQ.jpeg)
 
+![](https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/img.jpeg)
 
 **Abstract**
 
