@@ -7,25 +7,25 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 **KNN classifier**
 
-<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_table.PNG" width="500">
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_table.png" width="500">
 
-<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_ROC.PNG">
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_ROC.png">
 
 **SVM classifier**
 
-<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_table.PNG" width="700">
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_table.png" width="700">
 
-<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_ROC.PNG">
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_ROC.png">
 
 **Data correction**
   **Logistic regression functions**
   
-  <img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/Paper_rep_adaboost.PNG">
+  <img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/Paper_rep_adaboost.png">
   
-  <img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/data_correction.PNG">
+  <img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/data_correction.png">
   
 **Models with all features**
 
-<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/all_features.PNG">
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/all_features.png">
 
 
