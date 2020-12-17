@@ -9,20 +9,23 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 <img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_table.png" width="500">
 
-![](https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_ROC.png)
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_ROC.png">
 
 **SVM classifier**
 
 <img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_table.png" width="700">
 
-![](https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_ROC.png)
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_ROC.png">
 
 **Data correction**
   **Logistic regression functions**
-  ![](https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/Paper_rep_adaboost.png)
-  ![](https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/data_correction.png)
+  
+  <img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/Paper_rep_adaboost.png">
+  
+  <img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/data_correction.png">
   
 **Models with all features**
-![](https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/all_features.png)
+
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/all_features.png">
 
 
