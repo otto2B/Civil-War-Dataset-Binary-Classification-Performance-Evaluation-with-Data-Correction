@@ -7,9 +7,9 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 **KNN classifier**
 
-<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_table.png" width="500">
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_table.jpeg" width="500">
 
-<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_ROC.png">
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/KNN_ROC.jpg">
 
 **SVM classifier**
 
