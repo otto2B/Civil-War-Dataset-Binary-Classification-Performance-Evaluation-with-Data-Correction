@@ -1,4 +1,4 @@
-![Image](img.jpeg)
+![alt text](https://miro.medium.com/max/1200/1*N5wTuuEAq8GU4zlomwWLiQ.jpeg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/otto2B/p4_presentation_test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
