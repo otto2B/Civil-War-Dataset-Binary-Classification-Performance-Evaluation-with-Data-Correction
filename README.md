@@ -6,25 +6,25 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 **KNN classifier**
 
-<img2 src="/images/KNN_table.png" width="500">
+<img src="/images/KNN_table.png" width="500">
 
-<img3 src="/images/KNN_ROC.png">
+<img src="/images/KNN_ROC.png">
 
 **SVM classifier**
 
-<img4 src="/images/SVM_table.png" width="700">
+<img src="/images/SVM_table.png" width="700">
 
-<img5 src="/images/SVM_ROC.png">
+<img src="/images/SVM_ROC.png">
 
 **Data correction**
   **Logistic regression functions**
   
-  <img6 src="/images/Paper_rep_adaboost.png">
+  <img src="/images/Paper_rep_adaboost.png">
   
-  <img7 src="/images/data_correction.png">
+  <img src="/images/data_correction.png">
   
 **Models with all features**
 
-<img8 src="/images/all_features.png">
+<img src="/images/all_features.png">
 
 
