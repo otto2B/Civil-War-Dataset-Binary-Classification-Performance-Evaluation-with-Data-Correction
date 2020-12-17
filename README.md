@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.jpeg)
+![alt text](https://github.com/[otto2B]/[p4_presentation_test]/blob/[main]/img.jpg?raw=true)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/otto2B/p4_presentation_test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
