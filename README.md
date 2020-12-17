@@ -13,7 +13,7 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 **SVM classifier**
 
-<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_table.png" width="500">
+<img src="https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_table.png" width="700">
 
 ![](https://github.com/otto2B/Civil-War-Dataset-Binary-Classification-Performance-Evaluation-with-Data-Correction/blob/main/images/SVM_ROC.png)
 
