@@ -46,4 +46,4 @@ Moreover the use of the same features in each of the model, regressions and rand
 
 Eventually, we found a model that overperformed the random forest model they used; indeed the results that came out of the gradient boosting model were just above that of the random forest of the authors. 
 
-<img src="images/table.png">
+<img src="images/table.png" width = 700>
