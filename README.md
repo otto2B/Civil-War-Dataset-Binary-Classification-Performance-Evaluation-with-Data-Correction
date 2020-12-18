@@ -10,16 +10,30 @@ In this extension, we explore methods to overcome the unbalance in the data clas
 
 **2. Results**
 
-First, we started replicating what the authors did in the paper 
+First, we started replicating what the authors did in the paper *Comparing Random Forest with Logistic Regression for
+Predicting Class-Imbalanced Civil War Onset Data*. In addition, we used oversampling to test and as we will see in the table at the end, it gave better performances in term of F1 score.
+
 <img src="images/final/LR_replication.png">
 
+In a second time, we decided to change an aspect of their paper, which was that the models they compared did not have the same features. It was thus not accurate to compare them. We decided to use all the features we could to train our models.
+
 <img src="images/LR_RF_separate_figures_replication_all_features.png">
+
+What came out of this first change is that, without any surprise, the regression stays less performant than the random forest. Though it performed better when using the data correction methods we used, that is to say oversampling and adaboost. We did not use undersampling because of the lack of sample in the minority class.
+
+Oversampling generates new data points for the minority to have the same amount than the majority class.We decided to use the Synthetic minority oversampling technique (SMOTE) that generates new samples between existing data points based on local density and their border with the other class. It is an informed oversampling method that is less prone to overfitting than a random oversampling method.
+
+Boostings methods are algorithms that convert weak learners into strong learners in order to improve the prediction power. It will first identify the weak learners and combine them into one strong learner. 
+
+We then tried several models in order to find one that could surpass the final model of the paper.
 
 <img src="images/final/KNN.png">
 
 <img src="images/final/linear_SVM.png">
 
 <img src="images/final/gradient_boost_all_features.png">
+
+To draw a first conclusion, the only model that performed better was gradient boosting, as we can see on the ROC curves.
 
 
 **3. Conclusion**
