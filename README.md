@@ -1,25 +1,37 @@
 <img src="img.jpeg">
 
-</ins>1.Introduction</ins>
+</ins>1. Introduction</ins>
 
 In this extension, we will explore methods to overcome the unbalance in the data classes. First, we will apply data correction methods such as boosting or sampling on the same dataset used in the article, expecting to improve the logistic regression model’s accuracy. Then we will explore other classifiers aiming to get the best possible predictive results on the corrected data. Cross validation is applied here as it produces unbiased and accurate error rates. In assessing the predictive performance, we use the following metrics; Confusion matrix, F1 score, Receiver Operating Characteristic Curve and AUC score.
 
-<ins>2.Methods</ins>
+<ins>2. Methods</ins>
+
  -Data correction:
+ 
  -Sampling: 
+ 
  -Boosting:
- -Classifiers
-  -Logistic regression
-  -Random Forest
-  -KNN
-  -SVM
+ 
+ -Classifiers:
+ 
+  -Logistic regression:
+  
+  -Random Forest:
+  
+  -KNN:
+  
+  -SVM:
 
-<ins>3.Results</ins>
- -Replication plots
- -other methods plots
+<ins>3. Results</ins>
 
-<ins>4.Results analysis</ins>
+ -Replication plots:
+ 
+ -other methods plots:
+ 
 
+<ins>4. Results analysis</ins>
+
+<ins>5. Conclusion</ins>
 
 **Methods**
 
