@@ -8,9 +8,9 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
   * Data correction:
  
-  * Sampling: 
+    * Sampling: 
  
-  * Boosting:
+    * Boosting:
  
   * Classifiers:
  
