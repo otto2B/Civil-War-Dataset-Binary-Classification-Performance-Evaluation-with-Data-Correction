@@ -8,7 +8,7 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 <img src="images/final/LR_replication.png">
 
-<img src="images/final/LR_RF_replication_all_features.png" width = 500> <img src="images/final/LR_RF_GB_replication_all_features.png" width = 500>
+<img src="images/final/LR_RF_replication_all_features.png" width = 450> <img src="images/final/LR_RF_GB_replication_all_features.png" width = 450>
 
 <img src="images/final/KNN.png">
 
