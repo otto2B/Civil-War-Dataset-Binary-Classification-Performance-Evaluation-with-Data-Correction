@@ -17,7 +17,7 @@ Predicting Class-Imbalanced Civil War Onset Data*. In addition, we used oversamp
 
 In a second time, we decided to change an aspect of their paper, which was that the models they compared did not have the same features. It was thus not accurate to compare them. We decided to use all the features we could to train our models.
 
-<img src="images/LR_RF_separate_figures_replication_all_features.png">
+<img src="images/final/LR_RF_separate_figures_replication_all_features.png">
 
 What came out of this first change is that, without any surprise, the regression stays less performant than the random forest. Though it performed better when using the data correction methods we used, that is to say oversampling and adaboost. We did not use undersampling because of the lack of sample in the minority class.
 
