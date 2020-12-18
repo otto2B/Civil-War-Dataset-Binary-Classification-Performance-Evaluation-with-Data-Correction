@@ -6,11 +6,10 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 **2. Results**
 
+First, we started replicating what the authors did in the paper 
 <img src="images/final/LR_replication.png">
 
-<div style="text-align:center">
-<img src="images/final/LR_RF_replication_all_features.png" width = 450> <img src="images/final/LR_RF_GB_replication_all_features.png" width = 450>
-</div>
+<img src="images/LR_RF_separate_figures_replication_all_features.png">
 
 <img src="images/final/KNN.png">
 
