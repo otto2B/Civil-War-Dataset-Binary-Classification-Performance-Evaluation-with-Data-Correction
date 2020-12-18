@@ -6,27 +6,27 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 **2. Methods**
 
-  *Data correction:
+  * Data correction:
  
-  *Sampling: 
+  * Sampling: 
  
-  *Boosting:
+  * Boosting:
  
-  *Classifiers:
+  * Classifiers:
  
-    *Logistic regression:
+    * Logistic regression:
   
-    *Random Forest:
+    * Random Forest:
   
-    *KNN:
+    * KNN:
   
-    *SVM:
+    * SVM:
 
 **3. Results**
 
-  *Replication plots:
+  * Replication plots:
  
-  *Extentsion plots:
+  * Extentsion plots:
  
 
 **4. Results analysis**
