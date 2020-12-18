@@ -8,7 +8,7 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 <img src="images/final/LR_replication.png">
 
-<img src="images/final/LR_RF_replication_all_features.png"> <img src="images/final/LR_RF_GB_replication_all_features.png">
+<img src="images/final/LR_RF_replication_all_features.png" width = 100> <img src="images/final/LR_RF_GB_replication_all_features.png" width = 100>
 
 <img src="images/final/KNN.png">
 
@@ -18,60 +18,5 @@ In this extension, we will explore methods to overcome the unbalance in the data
 
 
 **3. Conclusion**
-
-
-
-
-**Methods**
-
- 1. Data correction
   
-  **Logistic regression functions**
-  
-  <p align="center">
-   Paper replication and Adaboost
-  </p>
-  
-  <img src="images/Paper_rep_adaboost.png">
-  
-  <img src="images/data_correction.png">
-  
- 2. Sampling
- 
- 3. Boosting
- 
- 4. Classifiers
- 
-  **KNN classifier**
-  <p align="center">
-   <img src="images/KNN_table.png" width="500">
-  </p>
-
-  <p align="center">
-   Receiver Operating Characteristic Curves for KNN classifier
-  </p>
-
-  <img src="images/KNN_ROC.png">
-
-  **SVM classifier**
-  <p align="center">
-   <img src="images/SVM_table.png" width="700">
-  </p>
-
-  <p align="center">
-   Receiver Operating Characteristic Curves for SVM classifier
-  </p>
-
-  <img src="images/SVM_ROC.png">
-
-
-  
-  **Models with all features**
-
-  <img src="images/all_features.png">
-  
-  **Conclusion**
-  
-  
-
 
