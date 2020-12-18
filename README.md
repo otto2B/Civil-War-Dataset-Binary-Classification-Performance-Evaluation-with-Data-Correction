@@ -39,6 +39,10 @@ To draw a first conclusion, the only model that performed better was gradient bo
 
 <hr class="solid">
 
+<p align="center">
+<img src="images/table.png" width = 700>
+</p>
+
 **Conclusion**
   
 We can conclude that the papers method were fairly accurate in terms of predictions. However we showed they compared their method with models that could still be improved, notably with data correction methods such as sampling and boosting. 
@@ -46,6 +50,4 @@ Moreover the use of the same features in each of the model, regressions and rand
 
 Eventually, we found a model that overperformed the random forest model they used; indeed the results that came out of the gradient boosting model were just above that of the random forest of the authors. 
 
-<p align="center">
-<img src="images/table.png" width = 700>
-</p>
+
