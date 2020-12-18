@@ -13,7 +13,7 @@ In this extension, we explore methods to overcome the unbalance in the data clas
 First, we started replicating what the authors did in the paper *Comparing Random Forest with Logistic Regression for
 Predicting Class-Imbalanced Civil War Onset Data*. In addition, we used oversampling to test and as we will see in the table at the end, it gave better performances in terms of F1 score.
 
-<img src="images/final/LR_replicationn.png">
+<img src="images/final/LR_replication.png">
 
 In a second time, we decided to change an aspect of their paper, which was that the models they compared did not have the same features. It was thus not accurate to compare them. We decided to use all the features we could to train our models.
 
