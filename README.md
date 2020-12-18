@@ -45,3 +45,5 @@ We can conclude that the papers method were fairly accurate in terms of predicti
 Moreover the use of the same features in each of the model, regressions and random forest, was necessary to draw fair comparisons.
 
 Eventually, we found a model that overperformed the random forest model they used; indeed the results that came out of the gradient boosting model were just above that of the random forest of the authors. 
+
+<img src="images/table.png">
