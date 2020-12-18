@@ -42,7 +42,7 @@ To draw a first conclusion, the only model that performed better was gradient bo
 **Summary of the best models' performances**
 
 <p align="center">
-<img src="images/table2.png" width = 700>
+<img src="images/table2.png">
 </p>
 
 **Conclusion**
