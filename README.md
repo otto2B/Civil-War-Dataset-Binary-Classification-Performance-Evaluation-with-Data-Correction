@@ -8,6 +8,8 @@ The evaluation of RFs and logistic regression of correctly predicting true insta
 
 In this extension, we explore methods to overcome the unbalance in the data classes. First, we apply data correction methods such as boosting and sampling on the same dataset used in the paper expecting to improve the logistic regression model’s accuracy. Then we explore other classifiers aiming to get the best possible predictive results on the corrected data. Cross validation is applied here as it produces unbiased and accurate error rates. In assessing the predictive performance, we use the following metrics; F1 score, Receiver Operating Characteristic Curve and AUC score.
 
+<hr class="solid">
+
 **Results**
 
 First, we started replicating what the authors did in the paper *Comparing Random Forest with Logistic Regression for
@@ -35,6 +37,7 @@ We then tried several models in order to find one that could surpass the final m
 
 To draw a first conclusion, the only model that performed better was gradient boosting, as we can see on the ROC curves.
 
+<hr class="solid">
 
 **Conclusion**
   
