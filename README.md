@@ -47,6 +47,8 @@ To look from another point of view, we got the F1 score of the methods we tested
 </p>
 Looking only at the AUC Score, we would think that the sampling methods didn't improve the predictions at all. But if we compare it with the F1 score, we see that there is a significant improvement when we apply a sampling method, especially for oversampling. 
 
+<hr class="solid">
+
 **Conclusion**
   
 We can conclude that the paper's methods were fairly accurate in terms of predictions. However we showed they compared their method with models that could still be improved, notably with data correction methods such as sampling and boosting. As we saw in the last table, the metrics used to compare these methods is also an important factor that we need to take in account and it is wise to use different metrics before drawing any conclusion.
