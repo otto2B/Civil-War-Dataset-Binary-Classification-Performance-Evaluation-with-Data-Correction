@@ -41,13 +41,15 @@ To draw a first conclusion, the only model that performed better was gradient bo
 
 **Summary of the best models' performances**
 
+To look from another point of view, we got the F1 score of the methods we tested previously. The F1 score is calculated by doing : (Precision*Recall)/(Precision+Recall). In the table, the F1 score will be approximated to zero if the value is really small.
 <p align="center">
 <img src="images/table2.png">
 </p>
+Looking only at the AUC Score, we would think that the sampling methods didn't improve the predictions at all. But if we compare it with the F1 score, we see that there is a significant improvement when we apply a sampling method, especially for oversampling. 
 
 **Conclusion**
   
-We can conclude that the papers method were fairly accurate in terms of predictions. However we showed they compared their method with models that could still be improved, notably with data correction methods such as sampling and boosting. 
+We can conclude that the paper's methods were fairly accurate in terms of predictions. However we showed they compared their method with models that could still be improved, notably with data correction methods such as sampling and boosting. As we saw in the last table, the metrics used to compare these methods is also an important factor that we need to take in account and it is wise to use different metrics before drawing any conclusion.
 Moreover the use of the same features in each of the model, regressions and random forest, was necessary to draw fair comparisons.
 
 Eventually, we found a model that overperformed the random forest model they used; indeed the results that came out of the gradient boosting model were just above that of the random forest of the authors. 
